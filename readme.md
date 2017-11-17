@@ -18,7 +18,7 @@ _{https://shambleshef.github.io/portfolio-project/}_
 
 ## Known Bugs
 
-_{Floats will not work with the "jumbotron" Bootstrap class. Footer seems to have its color either overridden by Bootstrap, or github pages doesn't recognize the color "white" in the stylesheet.}_
+_{Floats will not work with the "jumbotron" Bootstrap class.}_
 
 ## Support and contact details
 
