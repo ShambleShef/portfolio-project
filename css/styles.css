@@ -10,6 +10,11 @@ img {
   border: 5px solid red;
 }
 
+footer {
+  text-align: center;
+  color: white;
+}
+
 .title {
   color: black;
   background-color: grey;
@@ -34,7 +39,7 @@ img {
   font-size: 35px;
   border: 4px solid black;
   padding: 8px;
-  margin: 12px;
+  margin: 25px;
   float: left;
 }
 
